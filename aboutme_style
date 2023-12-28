@@ -1,0 +1,66 @@
+<html>
+<head>
+<style>
+body {
+  background-color: grey;
+ color:white;
+}
+h1,h2 {
+  color:lightblue;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+ul{list-style-type:disc;}
+b{color:yellow;}
+a{color:red;}
+img{border-color:red;}
+</style>
+</head>
+<title>About Me style page</title>
+<body>
+<h1>About Lora Sobh</h1>
+<p>My Name is Lora and I am from <b>Lebanon</b>,
+favorite color is: <b>pink</b>,
+Seeking <b >joy</b> in every moment.</p> <hr>
+<h2><strong>My Classes This Semester:</strong></h2> 
+<ul >
+<li>LS1ALGE	Algebra I </li>
+<li>LS1ANAL	Calculus 1 </li>
+<li>LS1AROR	Computer Architecture </li>
+<li>LS1CMGE	General accounting	</li>
+<li>LS1ECON	Economics</li>
+<li>LS1FRAN	English </li>
+<li>LS1IWEB	Introduction to web Development	</li>
+<li>LS1ININ	Introduction to computer science</li>
+<li>LS1STAT	Statistics</li>
+</ul>
+<h2><strong>My favorite movies :</strong></h2>
+<p><I>(I actually don't watch too many movies, so...here goes!)</I></p>
+<ol>
+<li>Barbie (<a href=IMDB.html>IMDB</a>)</li>
+<li>Miller's Girl (<a href=IMDB.html >IMDB</a>)</li>
+<li>The Boys in the Boat (<a href=IMDB.html >IMDB</a>)</li>
+</ol> 
+<h2><strong>My Moods</strong></h2>
+<p> 
+Happy: <img src="Happy girl.jpg" width="200px" height="100px" >
+Sad:<img src="sad girl.jpg" width="200px" height="100px">
+</p>
+<h2><strong>Fun Facts About My Neighbors</strong></h2>
+<ul type="disc">
+<li>Dana Aldeeb:CS lover</li>
+<li>Nagham malaeb:black color lover</li>
+</ul>
+<p>
+<a href=http://validator.w3.org/check/referer>
+<img src=" http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1">
+</a>
+<a href= http://jigsaw.w3.org/css-validator/check/referer>
+<img src="http://jigsaw.w3.org/css-validator/images/vcss " alt="Valid CSS">
+</a>
+</p>
+</body>
+</html>
+
